@@ -45,7 +45,6 @@ if (isset($_POST['vtt'])) {
     <label><input type="radio" id="css" name="mode" value="download">
     Fazer download</label><br/><br/>
     
-    <radiogroup></radiogroup>
     <button>ENVIAR</button>
     </form>
     <?php
